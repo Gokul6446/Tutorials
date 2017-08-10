@@ -1,0 +1,11 @@
+touch server.js
+npm init 
+npm start server.js
+ if want to install express
+ npm install express --save 
+
+//to install nodeman globally 
+sudo npm install -g nodeman
+
+nodeman server.js
+

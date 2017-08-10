@@ -1,0 +1,56 @@
+npm init to create package.json
+npm install express
+express myproject(project name)
+npm start
+express -h
+
+npm install mongo
+
+npm start
+
+sudo apt-get install mongodb // to install mongodb
+
+sudo apt-get install mongodb-server // to execute mongodb in linux
+
+//to install mongodb
+sudo apt-get install mongodb
+ //update
+sudo apt-get update
+
+//status
+
+
+sudo mongod --repair
+
+sudo mongod
+
+mongo
+
+
+/etc/init.d/mongodb status
+
+//log
+sudo less /var/log/mongodb/mongodb.log
+
+//to start
+
+// install 
+
+sudo apt-get install -y mongodb-org
+sudo service mongodb start
+
+sudo -s
+ sudo service mongod start
+
+/*To delete the root folder  if permission denied
+
+	     sudo rm -rf folderName
+
+	    you can use letters -f, -r, -v:
+
+	-f = to ignore non-existent files, never prompt
+	-r = to remove directories and their contents recursively
+	-v = to explain what is being done
+*/
+
+
